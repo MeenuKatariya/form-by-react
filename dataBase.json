@@ -1,0 +1,22 @@
+{
+  "employeeDetail": [
+    {
+      "id": 1,
+      "name": "meenu katariya",
+      "age": "20",
+      "address": "Mohan nagar",
+      "salary": "123456",
+      "department": "science",
+      "isMarried": "false"
+    },
+    {
+      "name": "matecgv",
+      "age": "45",
+      "address": "mohan nagR",
+      "salary": "789",
+      "department": "Science",
+      "isMarried": true,
+      "id": 2
+    }
+  ]
+}
